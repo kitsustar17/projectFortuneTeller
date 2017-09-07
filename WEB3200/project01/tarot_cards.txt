@@ -1,0 +1,134 @@
+url:https://api.myjson.com/bins/9u7z5
+
+[{
+	"number" : "0",
+	"name" : "The Fool",
+	"image" : "images/the_fool.jpg",
+	"meaning" : "Optimism and sign of new beginnings"
+},
+{
+	"number" : "1",
+	"name" : "The Magician",
+	"image" : "images/the_magician.jpg",
+	"meaning" : "The power to put into action"
+},
+{
+	"number" : "2",
+	"name" : "The High Priestess",
+	"image" : "images/the_high_priestess.jpg",
+	"meaning" : "Patience and inaction"
+},
+{
+	"number" : "3",
+	"name" : "The Empress",
+	"image" : "images/the_empress.jpg",
+	"meaning" : "Abundance and full of life"
+},
+{
+	"number" : "4",
+	"name" : "The Emperor",
+	"image" : "images/the_emperor.jpg",
+	"meaning" : "Structure and stability"
+},
+{
+	"number" : "5",
+	"name" : "The Hierophant",
+	"image" : "images/the_hierophant.jpg",
+	"meaning" : "Follow traditions and rules"
+},
+{
+	"number" : "6",
+	"name" : "The Lovers",
+	"image" : "images/the_lovers.jpg",
+	"meaning" : "Passions and unity of love"
+},
+{
+	"number" : "7",
+	"name" : "The Chariot",
+	"image" : "images/the_chariot.jpg",
+	"meaning" : "Progress towards a goal"
+},
+{
+	"number" : "8",
+	"name" : "The Strength",
+	"image" : "images/strength.jpg",
+	"meaning" : "Courage and determination"
+},
+{
+	"number" : "9",
+	"name" : "The Hermit",
+	"image" : "images/the_hermit.jpg",
+	"meaning" : "Solitude and self-awareness"
+},
+{
+	"number" : "10",
+	"name" : "The Wheel",
+	"image" : "images/the_wheel.jpg",
+	"meaning" : "A change in your current situation"
+},
+{
+	"number" : "11",
+	"name" : "The Justice",
+	"image" : "images/justice.jpg",
+	"meaning" : "An equality and balance"
+},
+{
+	"number" : "12",
+	"name" : "The Hanged Man",
+	"image" : "images/the_hanged_man.jpg",
+	"meaning" : "Enlightenment and a new perspective"
+},
+{
+	"number" : "13",
+	"name" : "The Death",
+	"image" : "images/death.jpg",
+	"meaning" : "An ending"
+},
+{
+	"number" : "14",
+	"name" : "The Temperance",
+	"image" : "images/temperance.jpg",
+	"meaning" : "Moderation and sensibility"
+},
+{
+	"number" : "15",
+	"name" : "The Devil",
+	"image" : "images/the_devil.jpg",
+	"meaning" : "Addiction and temptation"
+},
+{
+	"number" : "16",
+	"name" : "The Tower",
+	"image" : "images/the_tower.jpg",
+	"meaning" : "A collapse of stability and realization"
+},
+{
+	"number" : "17",
+	"name" : "The Star",
+	"image" : "images/the_star.jpg",
+	"meaning" : "A calming hope and good omen"
+},
+{
+	"number" : "18",
+	"name" : "The Moon",
+	"image" : "images/the_moon.jpg",
+	"meaning" : "Coming from dreams, and a mystery"
+},
+{
+	"number" : "19",
+	"name" : "The Sun",
+	"image" : "images/the_sun.jpg",
+	"meaning" : "A sign of success and happiness"
+},
+{
+	"number" : "20",
+	"name" : "The Judgement",
+	"image" : "images/judgement.jpg",
+	"meaning" : "A new phase and rebirth"
+},
+{
+	"number" : "21",
+	"name" : "The World",
+	"image" : "images/the_world.jpg",
+	"meaning" : "A completion and attainment of desires"
+}]

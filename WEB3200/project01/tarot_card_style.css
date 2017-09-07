@@ -1,0 +1,57 @@
+body {
+	font-family: 'Berkshire Swash', cursive;
+}
+
+#row {
+	width:100%;
+}
+
+.divfloat {
+	float:left;
+	margin:auto;
+}
+
+img {
+	max-width:122px;
+	max-height:215px;
+	display:block;
+	margin:auto;
+}
+
+h1 {
+	text-align:center;
+}
+
+p {
+	text-align:center;
+	padding:10px;
+}
+
+#slot_1 {
+	padding:10px;
+	text-align:center;
+}
+
+#slot_2 {
+	padding:10px;
+	text-align:center;
+}
+
+#slot_3 {
+	padding:10px;
+	text-align:center;
+}
+
+#deck_button {
+	background-image:url(images/tarot_back.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	padding:108px 80px;
+	margin:auto;
+	display:block;
+
+}
+
+#deck_button:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,00.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
